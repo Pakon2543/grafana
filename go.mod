@@ -97,7 +97,7 @@ require (
 	github.com/unknwon/com v1.0.1
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/weaveworks/common v0.0.0-20210913144402-035033b78a78
-	github.com/xorcare/pointer v1.1.0
+	github.com/xorcare/pointer v1.2.2
 	github.com/yudai/gojsondiff v1.0.0
 	go.opentelemetry.io/collector v0.31.0
 	go.opentelemetry.io/collector/model v0.31.0
