@@ -27,7 +27,7 @@
     "d3-interpolate": "1.4.0",
     "date-fns": "2.21.3",
     "eventemitter3": "4.0.7",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "marked": "4.0.5",
     "moment": "2.29.1",
     "moment-timezone": "0.5.33",
