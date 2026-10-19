@@ -61,7 +61,7 @@ require (
 	github.com/hashicorp/go-hclog v0.16.1
 	github.com/hashicorp/go-plugin v1.4.3
 	github.com/hashicorp/go-version v1.3.0
-	github.com/inconshreveable/log15 v0.0.0-20180818164646-67afb5ed74ec
+	github.com/inconshreveable/log15 v3.0.0-testing.5+incompatible
 	github.com/influxdata/influxdb-client-go/v2 v2.3.1-0.20210518120617-5d1fff431040
 	github.com/influxdata/line-protocol v0.0.0-20210311194329-9aa0e372d097
 	github.com/jmespath/go-jmespath v0.4.0
@@ -259,6 +259,7 @@ require (
 require (
 	github.com/Azure/go-autorest/autorest/adal v0.9.15 // indirect
 	github.com/grafana/dskit v0.0.0-20211011144203-3a88ec0b675f // indirect
+	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
 )
 
 // Use fork of crewjam/saml with fixes for some issues until changes get merged into upstream
